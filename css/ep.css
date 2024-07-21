@@ -1,0 +1,27 @@
+#ep-items{
+    padding:7% 15%;
+}
+
+#ep-title {
+    background-image: url("https://i.pinimg.com/originals/f2/21/e0/f221e0f359cdc2109701da4fd715fd5c.jpg");
+    background-size: 1200px, 800px;
+    height: 700px;
+    
+}
+#ep-items {
+    padding:7% 15%;
+}
+
+.ep-product-heading {
+    width:70%;
+    padding-left:280px;
+    padding-bottom:20px;
+}
+
+.ep-card-body {
+    text-align:center;
+}
+.custom-ep-card {
+    padding-bottom:20px;
+}
+

@@ -1,0 +1,57 @@
+/* nailpaint */
+
+#np-title{
+    background-image: url("https://i.pinimg.com/originals/b1/fb/d4/b1fbd4050864755b5217eb8503f536b0.jpg"); 
+    background-size: 1300px 900px;
+    height:700px; 
+}
+
+.np-main-quote {
+    position: relative;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 4.0rem;
+    line-height: 1.3;
+    color: white;
+    padding-right: 50px;
+    top: -133px;
+
+}
+
+.np-quote-part {
+    font-size: 3.0rem;
+}
+
+.np-download-button {
+    position: absolute;
+    top: 630px;
+    left: 541px;
+    width:130px;
+}
+
+.np-download-button:hover {
+    background: linear-gradient(68.6deg, rgb(70, 247, 241) 1.8%, rgb(199, 246, 249) 100.5%);
+}
+#np-items {
+    padding:7% 15%;
+}
+
+.np-product-heading {
+    width:70%;
+    padding-left:280px;
+    padding-bottom:20px;
+}
+
+.np-card-body {
+    text-align:center;
+}
+
+.custom-np-card {
+    padding-bottom:20px;
+}
+
+.np-gradient-hover:hover {
+    background: linear-gradient(68.6deg, rgb(70, 247, 241) 1.8%, rgb(199, 246, 249) 100.5%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

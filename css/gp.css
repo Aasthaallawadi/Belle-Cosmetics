@@ -1,0 +1,43 @@
+#gp-items {
+    padding:7% 15%;
+}
+#gp-title {
+    background-image: url("https://images.pexels.com/photos/2600761/pexels-photo-2600761.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: 1300px 1600px;
+    height:700px;
+    
+}
+
+.gp-main-quote {
+    position: relative;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 4.0rem;
+    line-height: 1.3;
+    color: white;
+    padding: 0 80px;
+    top: -90px;
+}
+
+.gp-download-button {
+    position: absolute;
+    top: 273px;
+    left: 555px;
+    width:130px;
+}
+
+
+.gp-product-heading {
+    width:70%;
+    padding-left:280px;
+    padding-bottom:20px;
+}
+
+.gp-card-body {
+    text-align:center;
+    padding-left:15px;
+    padding-right:15px;
+}
+.custom-gp-card {
+    padding-bottom:20px;
+}

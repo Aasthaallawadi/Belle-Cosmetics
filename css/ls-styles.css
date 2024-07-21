@@ -1,0 +1,61 @@
+/* Lipstick page */
+
+#ls-title {
+  background-image:url("http://www.daniellindh.com/2017/wp-content/uploads/2017/01/lipstick-cosmetics-makeup-nail-polish-still-life-dolce-gabbana-daniel-lindh.jpg");
+  height: 701px;
+}
+
+.ls-gradient-hover:hover{
+  background: linear-gradient(68.6deg, rgb(247, 195, 106) 1.8%, rgb(241, 116, 241) 100.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ls-main-pic {
+  /* transform: rotate(-10deg); */
+  width: 70%;
+}
+.ls-download-button:hover {
+  background: linear-gradient(68.6deg, rgb(248, 209, 93) 1.8%, rgb(241, 116, 241) 100.5%);
+}
+
+.ls-main-quote {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3.0rem;
+  line-height: 1.5;
+  color: #ffffff;
+  padding-right:130px;
+}
+
+.ls-quote-part {
+  /* font-size: 2.0rem; */
+}
+
+.ls-gradient {
+  background: linear-gradient(68.6deg, rgb(240, 14, 14) 1.8%, rgb(241, 65, 65) 100.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#ls-items {
+  padding: 7% 15%;
+
+}
+
+.ls-product-heading {
+  padding-bottom: 20px;
+  padding-left:240px;
+  width:70%;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  font-size: 0.8rem;
+}
+
+.custom-ls-card {
+  padding-bottom: 20px;
+}
+
